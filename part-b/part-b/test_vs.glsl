@@ -38,6 +38,5 @@ void main()
 	}
 
 	vColor = ambient + diffuse + specular;
-
 	vColor.a = 1.0;
 }
