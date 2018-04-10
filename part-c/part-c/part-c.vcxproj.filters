@@ -37,10 +37,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="test_fs.glsl">
+    <None Include="fshader36.glsl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_vs.glsl">
+    <None Include="vshader36.glsl">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

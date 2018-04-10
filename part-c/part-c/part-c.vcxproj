@@ -162,8 +162,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="test_fs.glsl" />
-    <None Include="test_vs.glsl" />
+    <None Include="fshader36.glsl" />
+    <None Include="vshader36.glsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
